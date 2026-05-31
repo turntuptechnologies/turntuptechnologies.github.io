@@ -1,4 +1,6 @@
-# Astro Starter Kit: Minimal
+# Turnt Up Technologies, Inc. on GitHub
+
+準備中です。
 
 ```sh
 npm create astro@latest -- --template minimal
